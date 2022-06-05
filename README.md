@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CJskii
-- 👀 I’m interested in blockchain technology and web development.
-- 🌱 I’m currently learning Responsive Web Design
+- 👀 I’m interested in blockchain technology and web development
+- 🌱 I’m currently learning Responsive Web Design and Javascript
 - 💞️ I’m looking to collaborate on projects that will help me grow as developer
 - 📫 How to reach me Discord: CJski#4114
 
