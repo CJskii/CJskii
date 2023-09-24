@@ -7,7 +7,6 @@ Full Stack JavaScript Developer & Web3 Enthusiast
 I am a self-taught developer who has been actively involved in the crypto space since 2020. Driven by my passion for decentralized internet technologies, I decided to dive into coding and began learning JavaScript in early 2022. Since then, I have developed a strong interest in backend development and web3 technologies. Currently, I am working as a part time developer teaching assistant, where I have the opportunity to help others learn and grow in their coding journeys. As I continue to expand my skills and knowledge, I am eager to permanently transition into a career as a developer and make meaningful contributions to the world of decentralized technology.
 
 * 🌍  I'm based in United Kingdom
-* 🖥️  See my portfolio at [Portfolio](http://cjski.xyz)
 * ✉️  You can contact me at [devcj@pm.me](mailto:devcj@pm.me)
 * 🧠  I'm learning more full stack stuff
 * 🤝  I'm open to collaborating on interesting projects in my niche
