@@ -1,39 +1,46 @@
-# Hi 👋
-
-### Full Stack JavaScript Developer & Web3 Enthusiast
-
-I’m a self-taught developer with a knack for building user-centric solutions. I’m passionate about decentralized tech and love diving into the latest tech trends. Be it everything blockchain, fancy gadgets and smart home automation.
-
-* 🌍  Based in the United Kingdom
-* ✉️  Contact: [devcj@pm.me](mailto:devcj@pm.me)
-* 🧠  Currently expanding my knowledge on everything cross-chain and DeFi
-* 🤝  Open to collaborating on interesting Web3 projects
-* ⚡  Fun fact: I was a hardcore gamer before getting into coding. Now, I level up both in-game and IRL!
-
----
-
-## My Favourite tools
-
-- **Frontend:** Next.js, React, CSS, Tailwind, Typescript 
-- **Backend:** Node.js, PostgreSQL, MongoDB
-- **Blockchain:** EVM, Ethers, Hardhat, WAGMI, ERC Standards
-- **Other:** Cross-chain tech, DeFi
-
-## Additional Info
-
-- Active in the dev community, creating educational content and helping others at LearnWeb3
-- Experienced in leading technical teams and collaborating across product development and marketing
-- Committed to writing clean, maintainable code and always looking to improve and learn new things
-- **Hackathon Winner:** Secured 1st place in the Morph hackathon (user-centric track)
+<div>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+<p align="center">
+    <h1 align="center">✩&emsp;Welcome!!&emsp;✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+this+is+CJski;Welcome+to+my+profile!;Wanna+collab%3F;Contact+me+below&font=Fira%20Code&color=13F700&center=true&width=280&height=50">
+</p>
+<br>
+</div>
 
 ---
 
-### Socials
+### Full Stack JavaScript & Web3 Developer
 
-<p align="left">
-<a href="https://discord.com/users/CJski#4114" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a>
-<a href="https://www.github.com/CJskii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-<a href="https://www.twitter.com/cjski_web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
+
+<p align="center">
+    I’m focused on building user-centric solutions and passionate about all things tech related.
 </p>
 
+
+
 ---
+<h1 align="center">📞 Contact Me</h1>
+
+
+<p align="center">
+    <a href="mailto:devcj@pm.me" target="_blank">
+        <img alt="Email" src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://x.com/cjski_web3" target="_blank">
+        <img alt="Twitter" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    </a>
+    <a href="https://discord.com/users/CJski#4114" target="_blank">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+    <a href="https://t.me/cj2077" target="_blank">
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+    </a>
+</p>
+
+
+<p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=cjski.cjski" alt="visitors"/>
+</p>
