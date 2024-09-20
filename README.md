@@ -12,7 +12,7 @@
 
 ---
 
-### Full Stack JS & Web3 Dev
+<h3 align="center">Full Stack JS & Web3 Dev</h3>
 
 
 <p align="center">
